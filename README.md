@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Badreddine LOUAZANI</h1>
 <h3 align="center">A passionate Software developer from Algeria</h3>
 
-<p align="left"> <a href="https://twitter.com/vadreddine" target="blank"><img src="https://img.shields.io/twitter/follow/vadreddine?logo=twitter&style=for-the-badge" alt="vadreddine" /></a> </p>
 
 - 🔭 I’m currently working on **2 PWA**
 
