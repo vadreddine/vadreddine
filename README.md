@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Angular, Ionic**
 
-- 📫 How to reach me **badreddinelouazani.pro@gmail.com**
+- 📫 How to reach me **lbadreddine.pro@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
