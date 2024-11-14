@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **2 PWA**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Ionic & Angular Projects**
 
 - 👨‍💻 All of my projects are available at [vadreddine.github.io](vadreddine.github.io)
